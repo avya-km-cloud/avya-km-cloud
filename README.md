@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Navya Sah
+# 👋 Hi, I am Navya Sah
 
 💻 Full Stack Web Developer | PHP | Laravel | Node.js | MySQL
 
