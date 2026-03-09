@@ -1,96 +1,110 @@
-# 👋 Hi, I am Navya Sah
+# 👋 Hi, I am Navya Kumari Sah
 
-💻 Full Stack Web Developer | PHP | Laravel | Node.js | MySQL
+💻 **Full Stack Developer | Laravel | PHP | Node.js | MySQL**  
+📍 India | Open to Remote Opportunities
 
-Experienced Full Stack Developer with around 4 years of experience building web applications, REST APIs, and scalable backend systems using Laravel and modern web technologies.
+Experienced Software Engineer with 4+ years of experience developing scalable web applications, building RESTful APIs, integrating third-party services, and delivering SaaS platforms using Laravel and modern web technologies. Experienced working with both service-based and product-based companies, contributing to client-driven solutions as well as scalable product development.
 
 ---
 
 # 🚀 Professional Summary
 
-• 4+ years experience in full stack web development  
-• Strong expertise in PHP and Laravel framework  
-• Experience building and consuming REST APIs  
-• Good knowledge of MySQL database design and Eloquent ORM  
-• Experience working with MVC architecture  
-• Familiar with Git version control and GitHub workflow  
-• Knowledge of frontend technologies like HTML, CSS, JavaScript, and jQuery
+• 4+ years of experience in Full Stack Web Development  
+• Strong expertise in Laravel & PHP backend development  
+• Experience designing, building, and consuming RESTful APIs  
+• Experience developing SaaS-based multi-tenant applications  
+• Strong knowledge of MySQL database design and optimization  
+• Experience integrating third-party APIs including travel booking APIs  
+• Experience working in both service-based and product-based development environments  
+• Experience collaborating with cross-functional teams including frontend developers, QA, and product managers  
+• Familiar with Git version control and collaborative development  
 
 ---
 
 # 🛠 Technical Skills
 
-## Backend
+### Backend
 - PHP
 - Laravel
 - Node.js
 - REST API Development
 
-## Frontend
+### Frontend
 - HTML
 - CSS
 - JavaScript
 - jQuery
-- Blade Template Engine
+- Blade Templates
 
-## Database
+### Database
 - MySQL
+- MongoDB
 - Database Design
 - Eloquent ORM
 
-## Tools & Technologies
+### Tools & Platforms
 - Git
 - GitHub
+- Bitbucket
+- Jira
+- SVN
 - Postman
-- Composer
-- MVC Architecture
-- API Integration
+- Docker
 
 ---
 
-# 📦 Projects
+# 🌐 Professional Project Experience
 
-## Laravel Portfolio Project
-A Laravel-based application developed to demonstrate backend development skills and MVC architecture.
+During my professional experience, I have worked on several real-world applications including:
 
-Features:
-- Laravel MVC architecture
-- Routing and controllers
-- Database configuration
-- Backend application structure
+### Transport Management System (TMS)
 
-Repository:
-https://github.com/avya-km-cloud/laravel-portfolio-project
+Developed a Laravel and Vue.js based transport management system for logistics brokers to automate invoicing, billing, onboarding, and operations management.
+
+Technologies  
+Laravel, Vue.js, MySQL, JavaScript
 
 ---
 
-## REST API Development
+### Geofencing-based Alert & Monitoring System
 
-Built RESTful APIs for web applications.
+Developed a safety monitoring platform with geofencing capabilities to detect restricted items entering sensitive locations such as schools or hospitals and trigger alerts.
 
-Features:
-- API authentication
-- CRUD operations
-- JSON API responses
-- Database integration
-
-Technologies:
-Laravel, MySQL, REST API
+Technologies  
+Laravel, JavaScript, MySQL
 
 ---
 
-## SaaS Web Application Development
+### Kiosk-based Tracking & Management System
 
-Experience working on SaaS-based applications with multiple modules.
+Built a web and API based system integrated with kiosk devices to manage events, inventory, and personnel tracking with scheduling features.
 
-Features:
-- User authentication
-- Admin dashboard
-- Role-based access control
-- Database management
+Technologies  
+PHP, Laravel, MySQL, JavaScript
 
-Technologies:
-Laravel, MySQL, JavaScript
+---
+
+### Travel Booking System with Third-Party API Integration
+
+Integrated travel booking APIs to manage hotel listings, pricing updates, and inventory synchronization for real-time booking systems.
+
+Technologies  
+Laravel, REST APIs, MySQL
+
+---
+
+### SaaS-based Multi-Tenant Applications
+
+Worked on scalable SaaS platforms including:
+
+• Job Portal System  
+• Taxi Booking Platform  
+• School Management System  
+
+Implemented multi-tenant architecture with tenant isolation, authentication, and role-based access control.
+
+Technologies  
+Laravel, Node.js, MongoDB, MySQL
 
 ---
 
@@ -99,19 +113,21 @@ Laravel, MySQL, JavaScript
 ✔ Full Stack Web Development  
 ✔ Laravel Application Development  
 ✔ REST API Development  
-✔ SaaS Application Development  
+✔ SaaS Application Architecture  
 ✔ Database Design & Optimization  
-✔ Backend Architecture  
+✔ Third Party API Integration  
+✔ Backend System Architecture  
 
 ---
 
 # 📫 Contact
 
 GitHub  
-https://github.com/avya-km-cloud
-
-LinkedIn  
-https://www.linkedin.com/in/navya-kumari-152171207?utm_source=share_via&utm_content=profile&utm_medium=member_android
+https://github.com/avya-km-cloud  
 
 Email  
-guptanavy1925@gmail.com
+guptanavy1925@gmail.com  
+
+---
+
+⭐ Open to Full Stack Developer opportunities and remote collaboration.
